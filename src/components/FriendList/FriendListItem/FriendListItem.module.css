@@ -1,0 +1,33 @@
+.item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background-color: #fff;
+  padding: 10px 25px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px 1px #d7d7d7;
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.online {
+  background-color: #53AD53;
+}
+
+.offline {
+  background-color: #FF514E;
+}
+
+.avatar {
+  background-color: #d7d7d7;
+  border-radius: 5px;
+}
+
+.name {
+  font-size: 32px;
+  font-weight: 500;
+}
