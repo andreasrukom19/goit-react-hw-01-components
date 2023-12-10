@@ -1,0 +1,8 @@
+.friend-list {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.friend-list li:not(.friend-list li:last-child) {
+  margin-bottom: 10px;
+}
