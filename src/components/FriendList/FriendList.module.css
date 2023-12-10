@@ -1,6 +1,7 @@
 .friend-list {
   width: 500px;
   margin: 0 auto;
+  margin-bottom: 15px;
 }
 
 .friend-list li:not(.friend-list li:last-child) {
